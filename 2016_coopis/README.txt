@@ -1,0 +1,2 @@
+Due to the large file-size of the results' archive (exceeding github's push limit of 100.0MB) we refer to:
+https://github.com/s-j-v-zelst/research/releases/download/final/2016_coopis_experiments.tar.gz
